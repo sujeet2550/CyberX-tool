@@ -12,6 +12,6 @@ Colorful hacker-style CLI toolkit for Termux/Linux.
 ## Install
 
 ```bash
-git clone https://github.com/YOURNAME/cyberx-toolkit
-cd cyberx-toolkit
-python cyberx.py
+git clone https://github.com/sujeet2550/cyberx-toolkit
+cd CyberX-toolkit
+python cyberX.py
